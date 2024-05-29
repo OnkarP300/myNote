@@ -18,6 +18,7 @@
   "homepage": "https://github.com/OnkarP300/myNote#readme",
   "dependencies": {
     "express": "^4.19.2",
+    "express-validator": "^7.1.0",
     "mongoose": "^8.3.2"
   },
   "devDependencies": {
